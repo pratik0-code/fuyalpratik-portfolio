@@ -1,2 +1,2 @@
-:HL["/fuyalpratik-portfolio/_next/static/chunks/0-ncqfmhbayjg.css","style"]
-0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}},"staleTime":300,"buildId":"dUCh4t2LHVexIRb7gh-tw"}
+:HL["/_next/static/chunks/0-ncqfmhbayjg.css","style"]
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}},"staleTime":300,"buildId":"NwNql5G0l_Rpa7kLbaNyZ"}
